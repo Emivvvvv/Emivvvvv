@@ -8,8 +8,4 @@ I do have a little experience with Arduino, Raspberry Pi, Bash and Linux.
 
 I'm currently learning Haskell and Go programming languages and I'm actively learning RISC-V processor development for Teknofest's microprocessor design competition, gaining expertise in architecture, HDL coding, and optimization techniques.
 
-<img
-  src="/achievement1.jpg"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+![My Image](achievement1.png)
