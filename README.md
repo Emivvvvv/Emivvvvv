@@ -2,10 +2,6 @@
 
 My name is Emirhan.
 
-I can write Rust, C, C++ and Python programming languages and I have experience with CosmWasm framework for dApps.
-
-I do have a little experience with Arduino, Raspberry Pi, Bash and Linux.
-
-I'm currently learning Haskell and Go programming languages and I'm actively learning RISC-V processor development for Teknofest's microprocessor design competition, gaining expertise in architecture, HDL coding, and optimization techniques.
+I’m currently in the second grade of my bachelor's and doing an exchange study in the Netherlands. Currently conducting research with a group of 4 with a robot named “Furhat”. Planning to focus on Teknofest’s digital processor design competition after my exchange program.
 
 ![My Image](achievement1.png)
