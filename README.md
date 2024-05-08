@@ -2,6 +2,6 @@
 
 My name is Emirhan. I love Rust as you might noticed 🦀.
 
-I’m currently in the second grade of my bachelor's and doing an exchange study in the Netherlands. Currently conducting research with a group of 4 with a robot named “Furhat”. Planning to focus on Teknofest’s digital processor design competition after my exchange program.
+I’m currently in the second grade of my bachelor's. Nothing special going on for now...
 
 ![My Image](achievement1.png)
