@@ -1,7 +1,7 @@
 ### Hi y'all 👋
 
-My name is Emirhan. I love Rust as you might noticed 🦀.
+My name is Emirhan. I love using Rust as you might noticed 🦀.
 
-I’m currently in the third grade of my bachelor's. 
+I’m currently a senior Computer Engineering student at Yeditepe University.
 
 ![My Image](achievement1.png)
